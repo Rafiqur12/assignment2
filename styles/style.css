@@ -119,11 +119,13 @@
 }
 
 .black {
+    font-size: 45px;
     font-weight: 700;
     color: #131313;
 }
 
-span {
+.yellow {
+    font-size: 45px;
     font-weight: 700;
     color: #FF900E;
 }
